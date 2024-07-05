@@ -20,3 +20,5 @@ Currently, two official plugins are available:
 - Vite
 - Tailwind
 - Redux
+
+- ![image info](./screenshot.png)
